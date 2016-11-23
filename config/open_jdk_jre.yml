@@ -18,7 +18,7 @@
 ---
 jre:
   --version: 1.8.0_11+
-  version: 1.8.0_50+
+  version: 1.8.0_31+
   repository_root: "{default.repository.root}/openjdk/{platform}/{architecture}"
 memory_calculator:
   version: 2.+
